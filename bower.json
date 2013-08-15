@@ -1,0 +1,11 @@
+{
+  "name": "wami-recorder",
+  "version": "1.1.0",
+  "dependencies": {
+    "swfobject": "*"
+  },
+  "ignore": [
+    "**/.*",
+    "components"
+  ]
+}
